@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "ES2015",
+    "outDir": "./public/js",
+    "esModuleInterop": true,
+    "strict": true,
+    "noImplicitAny": true
+  },
+  "include": ["src/*"]
+}
